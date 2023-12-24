@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Manage-Landing-page/static/css/main.974caa41.css",
+    "main.js": "/Manage-Landing-page/static/js/main.fe1a312b.js",
+    "static/media/avatarali.png": "/Manage-Landing-page/static/media/avatarali.88f9155cb730934f4d7c.png",
+    "static/media/avatarshanai.png": "/Manage-Landing-page/static/media/avatarshanai.4bbe2f95e8975736fbd8.png",
+    "static/media/illustrationintro.svg": "/Manage-Landing-page/static/media/illustrationintro.cb9a8a9551ca99f99a125230d38a2c36.svg",
+    "static/media/avataranisha.png": "/Manage-Landing-page/static/media/avataranisha.484e15bc92ce6a0106ab.png",
+    "static/media/revicons.eot": "/Manage-Landing-page/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Manage-Landing-page/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/avatarrichard.png": "/Manage-Landing-page/static/media/avatarrichard.ace8e0892f67a50c1e9e.png",
+    "static/media/revicons.woff": "/Manage-Landing-page/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/Manage-Landing-page/static/media/logo.66a576108be35c08eb2ca3e40c17d151.svg",
+    "static/media/logofooter.svg": "/Manage-Landing-page/static/media/logofooter.5cc8da2f9ef5a29b73efcc65f4571c31.svg",
+    "static/media/iconinstagram.svg": "/Manage-Landing-page/static/media/iconinstagram.54d3962efa2aa6085b776d1816557a6a.svg",
+    "static/media/iconpinterest.svg": "/Manage-Landing-page/static/media/iconpinterest.45264b1d1cdf7f0c420d573853779f7b.svg",
+    "static/media/icontwitter.svg": "/Manage-Landing-page/static/media/icontwitter.01a8907dd0beb126cff27d505c31be52.svg",
+    "index.html": "/Manage-Landing-page/index.html",
+    "static/media/iconyoutube.svg": "/Manage-Landing-page/static/media/iconyoutube.7d6960fbb0c4831f7c667012f0b102d2.svg",
+    "static/media/iconfacebook.svg": "/Manage-Landing-page/static/media/iconfacebook.1e9b33385e6dfe7a61acbff13373209c.svg",
+    "static/media/bgsimplifysectiondesktop.svg": "/Manage-Landing-page/static/media/bgsimplifysectiondesktop.ca40c1eebd150b1cc7dc266ce0b13d87.svg",
+    "static/media/iconclose.svg": "/Manage-Landing-page/static/media/iconclose.d5ba0dc53461cfc81979638f3b9fcf2e.svg",
+    "static/media/bgsimplifysectionmobile.svg": "/Manage-Landing-page/static/media/bgsimplifysectionmobile.a79c8471fa284189552dc8b07030c53d.svg",
+    "static/media/bgtabletpattern.svg": "/Manage-Landing-page/static/media/bgtabletpattern.b6990a984c7bcc142d3e9783736e996a.svg",
+    "static/media/iconhamburger.svg": "/Manage-Landing-page/static/media/iconhamburger.8dcf47cc6f3180ad040f1173f3592504.svg",
+    "main.974caa41.css.map": "/Manage-Landing-page/static/css/main.974caa41.css.map",
+    "main.fe1a312b.js.map": "/Manage-Landing-page/static/js/main.fe1a312b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.974caa41.css",
+    "static/js/main.fe1a312b.js"
+  ]
+}
