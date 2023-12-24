@@ -1,0 +1,40 @@
+.banner{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 120px;
+    height: 100px;
+    transition: 0.3s ease-in-out;
+    background-color: var(--BrightRed);
+    background-image: url(../Assets/bgsimplifysectiondesktop.svg);
+    
+    
+}
+.banner_title{
+    color: var(--VaryLightGray);
+    width: 420px;
+    font-weight: 500;
+}
+
+@media screen and (max-width:1280px){
+    .banner{
+        padding: 50px 40px;
+    }
+}
+
+@media screen and (max-width:650px){
+    .banner{
+        flex-direction: column;
+        height: 200px;
+        background-image: url(../Assets/bgsimplifysectionmobile.svg);
+        background-repeat: no-repeat;
+        padding: 50px 20px;
+    }
+    .banner_title{
+        width: fit-content;
+        text-align: center;
+        
+    }
+}
+

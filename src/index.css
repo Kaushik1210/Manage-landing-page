@@ -1,13 +1,60 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap');
+
+
+
+:root{
+--BrightRed: hsl(12, 88%, 59%);
+--DarkBlue: hsl(228, 39%, 23%);
+--DarkGrayishBlue: hsl(227, 12%, 61%);
+--VeryDarkBlue: hsl(233, 12%, 13%);
+--VeryPaleRed: hsl(13, 100%, 96%);
+--VaryLightGray: hsl(0, 0%, 98%);
+
+--Lightred: hsl(0, 100%, 67%);
+
+--font-bevietnampro:'Be Vietnam Pro', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.title{
+  color: var(--DarkBlue);
 }
+
+.para{
+  color: var(--DarkGrayishBlue);
+}
+
+.orange_button{
+  height: 50px;
+  width: 150px;
+  background-color: var(--BrightRed);
+  font-weight: 500;
+  color: var(--VaryLightGray);
+  border: none;
+  border-radius: 50px;
+  box-shadow: 0px 10px 20px hsla(12, 88%, 59%, 0.405);
+  transition: 0.2s ease-in-out;
+  &:hover{
+    color: var(--VeryPaleRed);
+    opacity: 0.8;
+  }
+}
+
+.white_button{
+  height: 50px;
+  width: 150px;
+  background-color: var(--VaryLightGray);
+  font-weight: 500;
+  color: var(--BrightRed);
+  border: none;
+  border-radius: 50px;
+  
+  transition: 0.2s ease-in-out;
+  &:hover{
+    color: var(--BrightRed);
+  }
+}
+
+
+
+
+

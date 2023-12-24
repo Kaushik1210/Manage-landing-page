@@ -1,0 +1,120 @@
+.slider_title{
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.slider_button{
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+}
+
+.carousel_sec{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.container{
+    margin-top: 50px;
+    position: relative;
+    
+}
+
+
+.card{   
+    margin: 50px 0px;
+    position: absolute;
+    
+       
+}
+
+.team_member{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 0px 25px;
+    padding: 50px 50px;
+    background-color: #FAFAFA;
+    gap: 20px;
+    height: 150px;  
+     
+}
+.team_member p{
+    font-size: 17px;
+}
+
+.team_member img{
+    position: absolute;
+    width: 70px;
+    display: flex;
+    top: -35px;
+    
+}
+
+
+
+.react-multi-carousel-dot--active button {
+    background: #080808;
+}
+
+.react-multi-carousel-dot button {
+    background-color: transparent !important;
+    border-color: hsl(12, 88%, 59%) !important;
+    
+}
+
+.react-multi-carousel-dot--active button{
+    background-color:hsl(12, 88%, 59%) !important ;
+}
+
+@media screen and (max-width:10000px){
+    .dot{
+        display: none;
+    }
+    .react-multi-carousel-dot button{
+        display: none !important;
+    }
+}
+
+@media screen and (max-width:800px){
+    .team_member{
+        margin: 0px 15px;
+        padding: 50px 15px;
+        
+    }
+    .react-multi-carousel-dot button{
+        display: flex !important;
+        margin-bottom: 50px;
+    }
+
+
+}
+
+@media screen and (max-width:700px){
+    .team_member{
+        
+        right: 0%;
+        left: 0%;
+        
+    }
+}
+@media screen and (max-width:400px){
+    .slider_title{
+        font-size: 25px;
+    }
+}
+@media screen and (max-width:300px){
+    .team_member{
+        height: 190px;
+    }
+}
+
+
+
+
+
